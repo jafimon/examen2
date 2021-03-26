@@ -1,0 +1,184 @@
+@import url ('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+
+body{
+	
+}
+header{
+	background-color: #fff;
+}
+
+#hero h1{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 120px;
+	font-weight: bolder;
+}
+#hero h3{
+	font-family: 'Catamaran', sans-serif;
+}
+
+
+#hero-slides h1{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 80px;
+	font-weight: bolder;
+}
+
+#hero-slides .btn-light{
+	font-family: 'Catamaran', sans-serif;
+	background-color: #FFFFFF;
+	color: var(--fondo-footer);
+	border-radius: 100px;
+	font-size: 15px;
+	font-weight: 200px;
+	padding: 15px 20px;
+	   }
+
+
+#hero-slides h3{
+	font-family: 'Catamaran', sans-serif;
+}
+
+
+#webconference{
+	padding: 80px;
+	margin-bottom: 40px;
+}
+
+
+#webconference h2{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 35px;
+	font-weight:500px;
+	text-align: center;	
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-weight: bolder;
+}
+#webconference h5{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 20px;
+	font-weight:500px;
+	text-align: center;	
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+#webconference p{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 15px;
+	font-weight:500px;
+	text-align: center;	
+	margin-bottom: 20px;
+	padding: 10px;
+}
+#webconference .btn-light{
+	
+	margin-left:135px;
+	background-color: #FFFFFF;
+	font-weight: bolder;
+	text-align: center;
+}
+
+#thespeakers h2{
+	font-family: 'Catamaran', sans-serif;
+	text-align: center;
+	margin-bottom: 10px;
+	padding: 20px;
+	font-weight: bolder;
+}
+
+#thespeakers h6{
+	font-family: 'Catamaran', sans-serif;
+	text-align: center;
+	font-weight: bolder;
+	margin-top: 30px;
+}
+#thespeakers{
+	font-family: 'Catamaran', sans-serif;
+	text-align: center;
+	margin-bottom: 20px;
+	padding: 120px;
+	margin-top: 60px;
+}
+
+
+
+#thespeakers .btn-light{
+	font-family: 'Catamaran', sans-serif;
+	background-color: #FFFFFF;
+	color: var(--fondo-footer);
+	border-radius: 100px;
+	font-size: 15px;
+	font-weight: 200px;
+	padding: 15px 20px;
+	font-weight: bolder;
+	   }
+
+
+#horario{
+	margin-top: 80px;
+	margin-bottom: 80px;
+	background-color: var(--fondo-footer);
+	color:#FFFFFF;
+	padding: 80px;
+	
+}
+#horario i{
+	font-size: 50px;
+	margin-bottom: 10px;
+
+}
+#horario h2{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 25px;
+}
+#horario h6{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 15px;
+}
+#horario p{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 15px;
+	color:#C0C0C0;
+	margin-bottom:50px; 
+}
+
+#sponsors{
+	padding: 50px;
+	text-align: center;
+	
+}
+#sponsors h2{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 35px;
+	font-weight:500px;
+	text-align: center;	
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-weight: bolder;
+	
+}
+
+#sponsors p{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 15px;
+	font-weight:500px;
+	text-align: center;	
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+	margin-top: 90px;
+}
